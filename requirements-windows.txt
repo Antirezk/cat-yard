@@ -1,0 +1,6 @@
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.17.2
+psutil==7.2.2
+pyinstaller==6.22.3
+pytest==9.1.1

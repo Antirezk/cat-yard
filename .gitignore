@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.log
+cat.lock
+settings.json
+cat_state.json
+cat_records.json
+feather.cur
+cursor-active-*.flag
+.pytest_cache/

@@ -1,0 +1,12 @@
+[project]
+name = "jianzhou-cat"
+version = "2.0.0"
+description = "Articulated desktop cats in seven breeds with a feather cursor toy"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+dependencies = ["PyQt5>=5.15", "psutil>=5.9"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
